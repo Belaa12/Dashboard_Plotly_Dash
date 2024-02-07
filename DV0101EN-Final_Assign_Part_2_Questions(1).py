@@ -168,5 +168,5 @@ return [
 if __name__ == '__main__':
     app.run_server(debug=True)
 
-python3.8 DV0101EN-Final_Assign_Part_2_Questions.py
+
 
